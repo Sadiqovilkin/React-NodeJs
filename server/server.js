@@ -11,7 +11,7 @@ app.use(cors())
 app.use(bodyParser.json())
 app.use(bodyParser.urlencoded({extended:true}))
 const PORT = 6060
-DB_URI = "mongodb+srv://Admin:Admin123@cluster0.ao8agug.mongodb.net/"
+DB_URI = "mongodb+srv://Admin:Admin123@cluster.slmtzms.mongodb.net/"
 
 
 
